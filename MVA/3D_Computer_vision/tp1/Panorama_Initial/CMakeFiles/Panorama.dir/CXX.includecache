@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilyes/Documents/3A/MVA/3D_Computer_vision/tp1/Panorama_Initial/Panorama.cpp
+Imagine/Graphics.h
+-
+Imagine/Images.h
+-
+Imagine/LinAlg.h
+-
+vector
+-
+sstream
+-
+
